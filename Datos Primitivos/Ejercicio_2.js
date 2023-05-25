@@ -1,2 +1,1 @@
-//ingresoU=; //Inicializar con lo que se requiera y descomentar
-typeof(ingresoU);
+//typeof();//Ingresar dentro del typeOf lo que se requiera
