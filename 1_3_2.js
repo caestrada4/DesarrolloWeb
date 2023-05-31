@@ -15,5 +15,3 @@ function saludo(name, lastname, nickname) {
   }
   
   saludo("Diego Medardo", "Saavedra García", "statick");
-  
-  

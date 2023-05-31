@@ -1,0 +1,8 @@
+1.4 Condicionales
+1.4.1 Responde las siguientes preguntas en la sección de comentarios:
+• ¿Qué es un condicional?
+Es una estructura de control que permite tomar decisiones basadas en condiciones, dependiendo si la condición es verdadera o falsa.
+• ¿Qué tipos de condicionales existen en JavaScript y cuáles son sus diferencias?
+Existen el If, y Switch, sin embargo, se puede decir que el Switch es un If Else.
+• ¿Puedo combinar funciones y condicionales?
+Sí es posible, se puede utilizar condicionales adentro de una función, para realizar cierta acción, o llamar a funciones dentro de una sentencia de control.

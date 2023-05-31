@@ -1,0 +1,10 @@
+1.5 Ciclos
+1.5.1 Responde las siguientes preguntas en la sección de comentarios:
+• ¿Qué es un ciclo?
+Un ciclo es un bucle, y estructura de control que permite realizar repeticiones de un código hasta llegar a un caso fin.
+• ¿Qué tipos de ciclos existen en JavaScript?
+Do while, While, y For
+• ¿Qué es un ciclo infinito y por qué es un problema?
+Es un ciclo que se repite indefinidamente sin una finalización correcta, se repite sin parar, puede provocar colapsos de memoria y puede afectar el rendimiento del programa. Llegando incluso a colapsarlo.
+• ¿Puedo mezclar ciclos y condicionales?
+Si es posible, se los utiliza para realizar rupturas, además permiten controlar el flujo dentro del programa y realizar acciones dependiendo de la condición.

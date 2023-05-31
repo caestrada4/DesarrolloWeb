@@ -1,0 +1,9 @@
+var name = "";
+var lastname = "";
+var userESPE = "";
+var age = 0;
+var mail = "";
+var mayorAge = false;
+var saveMoney = 0.0;
+var debts = 0.0;
+En el Código he asignado valores porque es necesario que identifique el tipo de dato el código.

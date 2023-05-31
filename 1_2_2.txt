@@ -1,0 +1,10 @@
+Determina el nombre y tipo de dato para almacenar en variables la
+siguiente información:
+• Nombre name (string o cadena)
+• Apellido lastname (string o cadena)
+• Nombre de usuario en ESPE userESPE(string o cadena)
+• Edad age (number o integer)
+• Correo electrónico mail (cadena de texto o string)
+• Mayor de edad mayorAge (Booleano)
+• Dinero ahorrado saveMoney(float o double o number)
+• Deudas debts (float o double o number)
