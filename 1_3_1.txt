@@ -1,7 +1,0 @@
-1.3.1 Responde las siguientes preguntas en la sección de comentarios:
-• ¿Qué es una función?
-Es una porción de código que puede ser utilizado y llamado en cualquier momento dentro de un programa, este código realiza una tarea específica.
-• ¿Cuándo me sirve usar una función en mi código?
-Me sirve cuando debo realizar una operación varias veces, o para lograr estructurar de mejor manera un código, además de evitar la redundancia de código.
-• ¿Cuál es la diferencia entre parámetros y argumentos de una función?
-Los parámetros son variables declaradas en la definición de la función, actúan como posiciones de los valores que pasan cuando se invoque la función, mientras que argumentos son valores reales que se pasan a la función cuando se la llama, los argumentos se asignan a los parámetros correspondientes.
