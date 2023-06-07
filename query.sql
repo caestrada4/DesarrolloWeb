@@ -1,3 +1,7 @@
+CREATE DATABASE tarea_002;
+
+USE tarea_002;
+
 CREATE TABLE contactos (
   id INT(11) AUTO_INCREMENT PRIMARY KEY,
   nombre VARCHAR(50) NOT NULL,
